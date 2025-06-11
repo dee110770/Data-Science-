@@ -5,4 +5,9 @@ This repository showcases a collection of data science projects, each exploring 
 
 This project leverages machine learning to predict water well failures in Tanzania, aiming to improve resource allocation and maintenance efficiency. Using exploratory data analysis and models like XGBoost, it provides actionable insights to enhance decision-making for sustainable water management.
 
+## Sentiment Analysis of Apple vs Google: Understanding Consumer Perception Through NLP
+
+This project applies **sentiment analysis** using **natural language processing (NLP)** to classify tweets about Apple and Google products as positive, negative, or neutral. By leveraging machine learning models, it provides insights into brand perception, helping companies optimize marketing strategies and manage brand reputation effectively.
+
+
 
